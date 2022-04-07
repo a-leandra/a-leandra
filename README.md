@@ -38,6 +38,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-leandra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=a-leandra&theme=github-dark-blue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-leandra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
