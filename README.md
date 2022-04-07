@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/a-leandra">
-      <img src="https://img.shields.io/badge/GithHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=a-leandra&style=flat-square&color=blue" alt=""/>
