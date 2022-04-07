@@ -17,7 +17,7 @@
 
 - :computer: I’m currently looking for a Summer Internship
 - 🌱 Open to all kinds of IT fields 
-- :zap: In my free time, I listen to music and learn about mechanical keyboards, but I also love to travel.
+- :zap: In my free time, I listen to music and learn about mechanical keyboards, but I also love to travel
 - :mailbox: How to reach me: [<img alt="mylinkedin | LinkedIn" width="20" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" />][linkedin] [<img alt="mygithub | GitHub" width="20" src="https://www.svgrepo.com/show/217753/github.svg" />][github]
 
 ---
@@ -45,7 +45,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=checkers-AI&theme=github_dark)](https://github.com/a-leandra/checkers-AI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=movies-browser&theme=github_dark)](https://github.com/a-leandra/movies-browser)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=bsk-project&theme=github_dark)](https://github.com/a-leandra/bsk-project)
 
-#### Learnig repos
+#### Learning repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-problems&theme=github_dark)](https://github.com/a-leandra/coding-problems)
 
 [linkedin]: https://www.linkedin.com/in/aleksandra-nadzieja/
