@@ -48,10 +48,5 @@
 #### Learnig repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-problems&theme=github_dark)](https://github.com/a-leandra/coding-problems)
 
----
-
-[![GitHub watchers](https://img.shields.io/github/watchers/a-leandra/a-leandra?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/a-leandra/a-leandra)
-[![GitHub followers](https://img.shields.io/github/followers/a-leandra.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/a-leandra?tab=followers)
-
 [linkedin]: https://www.linkedin.com/in/aleksandra-nadzieja/
 [github]: https://github.com/a-leandra
