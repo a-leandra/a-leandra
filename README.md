@@ -47,6 +47,7 @@
 
 #### Learning repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-problems&theme=github_dark)](https://github.com/a-leandra/coding-problems)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-interview-university&theme=github_dark)](https://github.com/a-leandra/coding-interview-university)
 
 [linkedin]: https://www.linkedin.com/in/aleksandra-nadzieja/
 [github]: https://github.com/a-leandra
