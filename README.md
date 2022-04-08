@@ -46,8 +46,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=movies-browser&theme=github_dark)](https://github.com/a-leandra/movies-browser)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=bsk-project&theme=github_dark)](https://github.com/a-leandra/bsk-project)
 
 #### Learning repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-problems&theme=github_dark)](https://github.com/a-leandra/coding-problems)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-interview-university&theme=github_dark)](https://github.com/a-leandra/coding-interview-university)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-problems&theme=github_dark)](https://github.com/a-leandra/coding-problems)
 
 [linkedin]: https://www.linkedin.com/in/aleksandra-nadzieja/
 [github]: https://github.com/a-leandra
