@@ -49,7 +49,7 @@ I'm Aleksandra, a recent Computer Science graduate from Gdańsk University of Te
 
 ### My contributions summary:
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=a-leandra&theme=github_dark&rank_icon=github" alt="A-leandra's GitHub stats">
     &nbsp;
     <img src="https://streak-stats.demolab.com?user=a-leandra&theme=github-dark-blue" alt="A-leandra's GitHub Streak">
