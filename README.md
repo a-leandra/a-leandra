@@ -37,7 +37,7 @@
 ### :fire: My Stats :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-leandra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=a-leandra&theme=github-dark-blue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=a-leandra&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ---
 
