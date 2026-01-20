@@ -4,7 +4,6 @@
     <a href="https://www.linkedin.com/in/aleksandra-nadzieja/" target="_blank"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/a-leandra" target="_blank"><img alt="Github Badge" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" /></a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=a-leandra&style=flat-square&color=blue" alt=""/>
 </div>
 
 
@@ -43,36 +42,20 @@ I'm Aleksandra, a recent Computer Science graduate from Gdańsk University of Te
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-leandra&layout=compact&hide_title=1&card_width=300&theme=github_dark" alt="Top language used in my repos" />
+<img src="https://github-readme-stats-vercel-alpha.vercel.app/api/top-langs/?username=a-leandra&layout=compact&hide_title=1&card_width=300&theme=github_dark" alt="Top language used in my repos" />
 
 ---
 
 ### My contributions summary:
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=a-leandra&theme=github_dark&rank_icon=github" alt="A-leandra's GitHub stats">
+<p align="center">
+    <img src="https://github-readme-stats-vercel-alpha.vercel.app/api?username=a-leandra&theme=github_dark&rank_icon=github" alt="A-leandra's GitHub stats">
     &nbsp;
     <img src="https://streak-stats.demolab.com?user=a-leandra&theme=github-dark-blue" alt="A-leandra's GitHub Streak">
-    <!---&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-leandra&theme=github_dark" alt="A-leandra's top languages"> -->
 </p>
 
-<!---
-[![A-leandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-leandra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=a-leandra&theme=github-dark-blue)](https://git.io/streak-stats)
-[![A-leandra's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-leandra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
+<!--
 #### University
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=checkers-AI&theme=github_dark)](https://github.com/a-leandra/checkers-AI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=movies-browser&theme=github_dark)](https://github.com/a-leandra/movies-browser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=bsk-project&theme=github_dark)](https://github.com/a-leandra/bsk-project)
-
-#### Learning repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-interview-university&theme=github_dark)](https://github.com/a-leandra/coding-interview-university)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-leandra&repo=coding-problems&theme=github_dark)](https://github.com/a-leandra/coding-problems)
-
-[linkedin]: https://www.linkedin.com/in/aleksandra-nadzieja/
-[github]: https://github.com/a-leandra
 -->
