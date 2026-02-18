@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/aleksandra-nadzieja/" target="_blank"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/a-leandra" target="_blank"><img alt="Github Badge" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/aleksandra-nadzieja/" target="_blank"><img alt="LinkedIn Badge" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+    <a href="https://github.com/a-leandra" target="_blank"><img alt="Github Badge" src="https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white" /></a>
   </div>
 </div>
 
@@ -10,43 +10,58 @@
 
 ---
 
-### Hi there 👋
+### Hi 👋
 
-I'm Aleksandra, a recent Computer Science graduate from Gdańsk University of Technology with practical experience in Python and a strong enthusiasm for Machine Learning.
+I'm Aleksandra, a Computer Science graduate from Gdańsk University of Technology and a Software Developer with over 2 years of professional experience, currently working mainly with Python and Machine Learning.
 
 ---
 
-### Things I code with:
+### Programming & Backend:
 
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4178a8?style=flat-square&logo=python&logoColor=white" />
-  
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-d00000?style=flat-square&logo=keras&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-fc9c04?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4d2d?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikitlearn-f99b36?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img alt="pandas" src="https://img.shields.io/badge/-pandas-130754?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-4d77cf?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Django REST Framework" src="https://custom-icon-badges.demolab.com/badge/Django%20REST%20Framework-8a3d3d?logo=djangorestframework&logoColor=white&style=flat-square" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
+
+### AI / Machine Learning:
+
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-fc9c04?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-d00000?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikitlearn-f99b36?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000" />
+  <img alt="Optuna" src="https://img.shields.io/badge/-Optuna-2596be?style=flat-square&logo=optuna&logoColor=white" />
 </p>
+
+### Data, Messaging & Storage:
+
+<p>
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-130754?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-4d77cf?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557c?logo=matplotlib&logoColor=fff&style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-ff6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img alt="Celery" src="https://img.shields.io/badge/-Celery-b8df69?style=flat-square&logo=celery&logoColor=000" />
+</p>
+
+### DevOps, Testing, Monitoring:
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000" />
+  <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-009fe3?style=flat-square&logo=pytest&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362d59?style=flat-square&logo=sentry&logoColor=white" />
+</p>
+
+---
 
 <img src="https://github-readme-stats-vercel-alpha.vercel.app/api/top-langs/?username=a-leandra&layout=compact&hide_title=1&card_width=300&theme=github_dark" alt="Top language used in my repos" />
 
 ---
-
-### My contributions summary:
 
 <p>
     <img src="https://github-readme-stats-vercel-alpha.vercel.app/api?username=a-leandra&theme=github_dark&rank_icon=github" alt="A-leandra's GitHub stats">
